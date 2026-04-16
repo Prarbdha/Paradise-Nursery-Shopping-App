@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Paradise Nursery Shopping App
+
+This is a React-based e-commerce application for a plant shop.
+
+## Features
+- Browse plants by category
+- Add items to cart
+- Update quantity
+- View total price
+
+## Tech Stack
+- React
+- Redux Toolkit
+
+## Author
+Prarbdha
+>>>>>>> 664d00409534dbb95c81a3923e2586b9418861f6
